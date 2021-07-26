@@ -5,4 +5,3 @@
 - 📅 Date : &nbsp;&nbsp;&nbsp;&nbsp;              04.06.2021
 - 🥅 Goal : &nbsp;&nbsp;&nbsp;&nbsp;              Implement acquired PHP skills and use newly acquired SQL knowledge to build a chat
 - 🔧 Skills : &nbsp;&nbsp;&nbsp;                  HTML5 PHP MySQL Git
-
